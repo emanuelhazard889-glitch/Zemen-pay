@@ -1,0 +1,16 @@
+{
+  "name": "zemen-real-pay-bot",
+  "version": "1.0.0",
+  "description": "Telegram Earning Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "node-telegram-bot-api": "^0.65.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
